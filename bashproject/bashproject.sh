@@ -94,7 +94,7 @@ loading=0
 echo "Now loading Aspirations..."
 until [[ $loading -gt 4 ]]
 do
-	echo "Loading..." #it needed to load, this was nessicary
+	echo "Loading..." #it needed to load, this was necessary
 	((loading=loading+1))
 	done
 echo "Done loading!"
