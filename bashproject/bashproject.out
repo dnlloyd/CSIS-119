@@ -1,0 +1,76 @@
+This is Leland's script! I'll be telling you about myself in this.
+It would be rude to talk about myself before introducing yourself, what's your name?
+Enter your name:Barry
+Hi Barry! Your name has 5 characters, that's cool I guess. I bet I could say it that many times.
+Barry!
+Barry!
+Barry!
+Barry!
+Barry!
+
+Select what you want to see about!
+
+1: Hobbies
+2: Pets
+3: Aspirations
+Type anything other than these to quit.
+Read:1
+
+Hobbies! I have a couple. I practice drawing and 3d modeling, I code and like making games!
+I also work out! I like lifting weights, but I despise cardio. But I should be keep doing it or my heart will explode or something.
+
+1: Further Details
+2: I do not care.
+Choice:1
+
+You wanna hear more? Well, I model in blender, I also typically texture my models in there too.
+My games are made in unity, and I'm working on a big one right now. I am pretty happy with it so far!
+
+Select what you want to see about!
+
+1: Hobbies
+2: Pets
+3: Aspirations
+Type anything other than these to quit.
+Read:2
+
+I have a cat named Kono, and he's pretty neat. Even though he's really nice he is needy, so he can get on my nerves.
+My friends always say he looks weirdly human for a cat. Which... I can't help but to agree with. I have an uncanny cat.
+At least he's expressive...
+
+How many pets do you have?
+Your Pets:52
+I won't lie, you need help.
+
+Select what you want to see about!
+
+1: Hobbies
+2: Pets
+3: Aspirations
+Type anything other than these to quit.
+Read:3
+
+You selected Aspirations!
+Now loading Aspirations...
+Loading...
+Loading...
+Loading...
+Loading...
+Loading...
+Done loading!
+
+My aspirations are pretty clean cut. I want to make successful games!
+This is hard though, and I need to pay bills so I can avoid dying, so I would like to be a software developer in the meantime.
+Also I aspire to match this criteria!
+
+The number of times help is said in the first part of the help command is:
+3
+Wow!
+
+Select what you want to see about!
+
+1: Hobbies
+2: Pets
+3: Aspirations
+Type anything other than these to quit.
+Read:4
